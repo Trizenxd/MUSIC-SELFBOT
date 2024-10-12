@@ -211,4 +211,4 @@ async def on_ready():
     print(f"{Flame}Total Users ~ {len(client.users)}")
     print(f"{Flame}Made by Flame nd Zera <3")
 
-client.run("MTIwMDY3Njk1ODM1NTM0NTQ1OA.G5i-sQ.XCR6t1SvP46EJORIv06dIUAhKFF4cbCE5PfnbY",bot=False) 
+client.run("",bot=False) 
